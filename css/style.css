@@ -1,0 +1,53 @@
+body {
+    background-color: aquamarine;
+}
+
+div.relative {
+    background-color: rgb(103, 254, 113);
+    width: 500px;
+    height: 230px;
+    position: relative;
+    left: 50px;
+    overflow: hidden;
+    border: 1px solid black;
+    padding: 20px 45px 75px;
+    background-color: lightblue;
+    border-radius: 8px ;
+  }
+   img{
+    float: right;
+    height: 200px;
+    width: 195px;
+   }
+  
+   div.relativ {
+    background-color: rgb(103, 254, 113);
+    width: 330px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    overflow: hidden;
+    border: 1px solid black;
+    padding: 20px 45px 75px;
+    background-color: lightblue;
+    border-radius: 8px ;
+    margin-top: 7px;
+  }
+  img{
+      float: right;
+      height: 200px;
+      width: 195px;
+  }
+
+  div.relatives {
+    background-color: rgb(103, 254, 113);
+    width: 500px;
+    height: 230px;
+    position: relative;
+    left: 50px;
+    overflow: hidden;
+    border: 1px solid black;
+    padding: 20px 45px 75px;
+    background-color: lightblue;
+    border-radius: 8px ;
+  }
